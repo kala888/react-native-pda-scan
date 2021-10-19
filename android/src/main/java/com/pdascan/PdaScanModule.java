@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.pdascan;
 
 import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.ReactApplicationContext;
@@ -56,7 +56,7 @@ public class PdaScanModule extends ReactContextBaseJavaModule {
           }
       }
     };
-  
+
     private void sendEvent(ReactContext reactContext, String eventName, WritableMap params) {
       getReactApplicationContext().getJSModule(DeviceEventManagerModule.RCTDeviceEventEmitter.class).emit(eventName,
           params);
@@ -95,5 +95,5 @@ public class PdaScanModule extends ReactContextBaseJavaModule {
         return "PdaScan";
     }
 
-  
+
 }
