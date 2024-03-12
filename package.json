@@ -1,5 +1,5 @@
 {
-  "name": "@kala888/react-native-pda-scan",
+  "name": "react-native-pda-scan",
   "title": "React Native Pda Scan",
   "version": "1.0.13",
   "description": "TODO",
@@ -25,7 +25,7 @@
     "scan"
   ],
   "author": {
-    "name": "kaala",
+    "name": "kala"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
