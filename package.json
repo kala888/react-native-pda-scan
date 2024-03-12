@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pda-scan",
+  "name": "@kala888/react-native-pda-scan",
   "title": "React Native Pda Scan",
   "version": "1.0.13",
   "description": "TODO",
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XuJin186/react-native-pda-scan.git",
-    "baseUrl": "https://github.com/XuJin186/react-native-pda-scan"
+    "url": "git+https://github.com/kala888/react-native-pda-scan.git",
+    "baseUrl": "https://github.com/kala888/react-native-pda-scan"
   },
   "keywords": [
     "react-native",
@@ -25,8 +25,7 @@
     "scan"
   ],
   "author": {
-    "name": "XuJin",
-    "email": "99799908@qq.com"
+    "name": "kaala",
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
